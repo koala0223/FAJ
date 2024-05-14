@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 FAJ.FINANCE
 <html lang="en">
 <head>
