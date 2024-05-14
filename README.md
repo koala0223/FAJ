@@ -8,6 +8,6 @@ FAJ.FINANCE
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <a href="https://example.com" class="btn">Visit Example.com</a>
+  <a href="https://raydium.io" class="btn">Buy Here</a>
 </body>
 </html>
