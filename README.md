@@ -8,3 +8,7 @@ Faj.Finance
         color: #fff; /* Set text color to white for better readability */
     }
 </style>
+/* Hide the header by setting its display property to none */
+header {
+    display: none;
+}
